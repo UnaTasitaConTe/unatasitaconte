@@ -1,15 +1,16 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Desarrollador de Software | Backend y Sistemas Escalables | Código limpio y soluciones reales</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unatasitaconte&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unatasitaconte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img align="right" height="150" src="https://i.ibb.co/mFXS60tg/LOGO2.png"  />
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://ibb.co/CsMWh6vD"  />
 
 ###
 
@@ -31,19 +32,20 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/unatasitaconte/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=unatasitaconte@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-</div>
+<br clear="both">
+
+<p align="left">Soy desarrollador de software enfocado en diseñar y construir aplicaciones web escalables, seguras y mantenibles, con especial interés en backend y arquitectura de sistemas.<br><br>Trabajo con tecnologías como PHP, C#, Docker y NGINX, aplicando buenas prácticas de ingeniería, Clean Code y principios SOLID para crear soluciones claras y sostenibles.<br><br>Tengo experiencia en despliegues automatizados, integración de APIs RESTful y optimización de bases de datos en entornos productivos.<br><br>Me interesa que la tecnología no solo funcione, sino que sea entendible, mantenible y útil para el negocio. Busco proyectos donde la calidad, el criterio técnico y el impacto real sean prioridad.</p>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/unatasitaconte/unatasitaconte/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/UnaTasitaConTe/UnaTasitaConTe/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:UnaTasitaConTe?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
+</div>
 
 ###
