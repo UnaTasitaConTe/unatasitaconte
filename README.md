@@ -7,9 +7,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/unatasitaconte/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=unatasitaconte@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -35,12 +38,6 @@
 <br clear="both">
 
 <p align="left">Soy desarrollador de software enfocado en diseñar y construir aplicaciones web escalables, seguras y mantenibles, con especial interés en backend y arquitectura de sistemas.<br><br>Trabajo con tecnologías como PHP, C#, Docker y NGINX, aplicando buenas prácticas de ingeniería, Clean Code y principios SOLID para crear soluciones claras y sostenibles.<br><br>Tengo experiencia en despliegues automatizados, integración de APIs RESTful y optimización de bases de datos en entornos productivos.<br><br>Me interesa que la tecnología no solo funcione, sino que sea entendible, mantenible y útil para el negocio. Busco proyectos donde la calidad, el criterio técnico y el impacto real sean prioridad.</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/UnaTasitaConTe/UnaTasitaConTe/output/snake.svg" alt="Snake animation" />
 
 ###
 
